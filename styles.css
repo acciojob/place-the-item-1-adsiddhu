@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:white;
+}
+.container{
+	display:flex;
+	justify-content:space-between;
+}
+.box{
+	width:100px;
+	height:100px;
+	background-color:green;
+	color:white;
+	font-size:35px;
+}
