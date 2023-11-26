@@ -1,9 +1,6 @@
 
 /* Your CSS Code here. */
-body{
-	background-color:white;
-}
-.container{
+.holder{
 	display:flex;
 	justify-content:space-between;
 }
